@@ -1,0 +1,948 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fin",
+				"finda\tYii Model findAll"
+			],
+			[
+				"T",
+				"TrunkSIPCodes"
+			],
+			[
+				"eve",
+				"$event〔variable〕"
+			],
+			[
+				"attr",
+				"$attributes〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"pho",
+				"phpinfo"
+			],
+			[
+				"strto",
+				"strtoupper〔function〕"
+			],
+			[
+				"strt",
+				"strtolower〔function〕"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"preg_ma",
+				"preg_match〔function〕"
+			],
+			[
+				"record",
+				"recordcall"
+			],
+			[
+				"send",
+				"$send_value〔variable〕"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"res",
+				"$result〔variable〕"
+			],
+			[
+				"number",
+				"number_format〔function〕"
+			],
+			[
+				"ast",
+				"ast_verb"
+			],
+			[
+				"de",
+				"dela\tYii Model deleteAll"
+			],
+			[
+				"des",
+				"$destination〔variable〕"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"mes",
+				"$message〔variable〕"
+			],
+			[
+				"findAl",
+				"findAllBySql"
+			],
+			[
+				"findA",
+				"findAll"
+			],
+			[
+				"conditi",
+				"$condition〔variable〕"
+			],
+			[
+				"exec",
+				"executado"
+			],
+			[
+				"opç",
+				"opção"
+			],
+			[
+				"aud",
+				"audios"
+			],
+			[
+				"find",
+				"findbp\tYii Model findByPk"
+			],
+			[
+				"va",
+				"$values〔variable〕"
+			],
+			[
+				"serv",
+				"$server〔variable〕"
+			],
+			[
+				"file",
+				"$file_name〔variable〕"
+			],
+			[
+				"wi",
+				"which"
+			],
+			[
+				"Log",
+				"LogUsers"
+			],
+			[
+				"del",
+				"delbp\tYii Model deleteByPk"
+			],
+			[
+				"buyra",
+				"buyrate"
+			],
+			[
+				"provider",
+				"provider_name"
+			],
+			[
+				"upda",
+				"updatebp\tYii Model updateByPk"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"update",
+				"updatea\tYii Model updateAll"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"mode",
+				"$modelRefill〔variable〕"
+			],
+			[
+				"inp",
+				"$input_lines〔variable〕"
+			],
+			[
+				"out",
+				"output_array"
+			],
+			[
+				"preg_m",
+				"preg_match_all〔function〕"
+			],
+			[
+				"sub",
+				"substr〔function〕"
+			],
+			[
+				"account",
+				"accountcode"
+			],
+			[
+				"slave",
+				"slave_magnus"
+			],
+			[
+				"ACCOUTN",
+				"ACCOUNTCODE"
+			],
+			[
+				"model",
+				"modelDid〔variable〕"
+			],
+			[
+				"n",
+				"não"
+			],
+			[
+				"m",
+				"música"
+			],
+			[
+				"op",
+				"opções"
+			],
+			[
+				"configura",
+				"configuração"
+			],
+			[
+				"par",
+				"parâmetros"
+			],
+			[
+				"atr",
+				"atrás"
+			],
+			[
+				"servi",
+				"servidor"
+			],
+			[
+				"var",
+				"variável"
+			],
+			[
+				"possi",
+				"possivel"
+			],
+			[
+				"ser",
+				"será"
+			],
+			[
+				"pod",
+				"poderá"
+			],
+			[
+				"N",
+				"Número"
+			],
+			[
+				"fun",
+				"função"
+			],
+			[
+				"necess",
+				"necessário"
+			],
+			[
+				"Magnus",
+				"MagnusBilling"
+			],
+			[
+				"Configura",
+				"Configuração"
+			],
+			[
+				"grat",
+				"gratís"
+			],
+			[
+				"gra",
+				"gratís"
+			],
+			[
+				"hor",
+				"horário"
+			],
+			[
+				"autentica",
+				"autenticar"
+			],
+			[
+				"selecion",
+				"selecionado"
+			],
+			[
+				"veri",
+				"verificar"
+			],
+			[
+				"Us",
+				"Usuário"
+			],
+			[
+				"informa",
+				"informaçōes|https://www.voip-info.org"
+			],
+			[
+				"Sele",
+				"Seleccione"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ent",
+				"então"
+			],
+			[
+				"Reje",
+				"Rejeitadas"
+			],
+			[
+				"espe",
+				"específico"
+			],
+			[
+				"inici",
+				"iniciam"
+			],
+			[
+				"usu",
+				"usuário"
+			],
+			[
+				"ho",
+				"horário"
+			],
+			[
+				"necessar",
+				"necessária"
+			],
+			[
+				"Coluna",
+				"Columnas"
+			],
+			[
+				"rec",
+				"records"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"provee",
+				"proveedores"
+			],
+			[
+				"inva",
+				"invalido"
+			],
+			[
+				"Lunes",
+				"Lunes-Viernes"
+			],
+			[
+				"field",
+				"fileds_texts"
+			],
+			[
+				"stru",
+				"strtoupper〔function〕"
+			],
+			[
+				"mem",
+				"memória"
+			],
+			[
+				"url",
+				"urlencode〔function〕"
+			],
+			[
+				"minu",
+				"minuto"
+			],
+			[
+				"autoriza",
+				"autorização"
+			],
+			[
+				"Gr",
+				"Gráfico"
+			],
+			[
+				"ma",
+				"máxima"
+			],
+			[
+				"Tari",
+				"Tarifas"
+			],
+			[
+				"in",
+				"início"
+			],
+			[
+				"ale",
+				"aleátoriamente"
+			],
+			[
+				"Informaç",
+				"Informações"
+			],
+			[
+				"Met",
+				"Metódos"
+			],
+			[
+				"inv",
+				"inválido"
+			],
+			[
+				"Arqui",
+				"Arquivo"
+			],
+			[
+				"Par",
+				"Parâmetros"
+			],
+			[
+				"cr",
+				"crédito"
+			],
+			[
+				"restr",
+				"restritos"
+			],
+			[
+				"Cr",
+				"Crédito"
+			],
+			[
+				"autom",
+				"automáticos"
+			],
+			[
+				"Repro",
+				"Reprocessar"
+			],
+			[
+				"la",
+				"langs"
+			],
+			[
+				"add",
+				"addslashes〔function〕"
+			],
+			[
+				"Serviç",
+				"Serviços"
+			],
+			[
+				"Confi",
+				"Configurações"
+			],
+			[
+				"notifi",
+				"notificaçōes"
+			],
+			[
+				"line",
+				"$lines〔variable〕"
+			],
+			[
+				"Descri",
+				"Descrição"
+			],
+			[
+				"lin",
+				"$lines〔variable〕"
+			],
+			[
+				"per",
+				"$percent〔variable〕"
+			],
+			[
+				"cont",
+				"$content〔variable〕"
+			],
+			[
+				"fiel",
+				"$fields〔variable〕"
+			],
+			[
+				"wik",
+				"wiki"
+			],
+			[
+				"wiki",
+				"wiki_module"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"Númer",
+				"Números"
+			],
+			[
+				"CAMP",
+				"CAMPAIGN_ID"
+			],
+			[
+				"read",
+				"readOnly"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"javasc",
+				"Format: Javascript"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"code",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"javascrip",
+				"Format: Javascript"
+			],
+			[
+				"Format",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"phpfmt: format now"
+			],
+			[
+				"phpfmt:f",
+				"phpfmt: format now"
+			],
+			[
+				"Package Control: instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"tidy php",
+				"Tidy PHP"
+			],
+			[
+				"ty",
+				"Tidy PHP"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Zen Coding: ",
+				"Zen Coding: Merge lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: al",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import sublime, sublime_plugin, os",
+			"php php.phar",
+			"php php.phar -v",
+			"php php.phar --list",
+			"php php.phar"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Library/WebServer/Documents/CallCenter_EZPhone",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/build",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/doc",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/script"
+	],
+	"file_history":
+	[
+		"/Library/WebServer/Documents/CallCenter_EZPhone/script/build.sh",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/.gitignore",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/build/index.html",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/protected/commands/update.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/b885c517-db2c-4f9c-aa1c-03764cf6a33a/var/www/html/callcenter/protected/commands/update.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/270cd0cd-5702-4018-8f02-d6cb67278df3/etc/rc.d/init.d/issabeldialer",
+		"/Library/WebServer/Documents/MBilling_7/protected/extensions/phpAGI/AGI_AsteriskManager.php",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/82c78dcc-390c-4403-8d1c-cf2a8c8bfcf4/var/www/html/mbilling/protected/extensions/phpAGI/AGI_AsteriskManager.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/components/Mail.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/components/AsteriskAccess.php",
+		"/Library/WebServer/Documents/MBilling_7/index.html",
+		"/Library/WebServer/Documents/MBilling_7/script/installOpenSips.sh",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/SendCreditSummaryController.php",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/85605081-316a-4ea9-9e7b-80ebade0520d/var/www/html/mbilling/protected/controllers/SendCreditSummaryController.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/views/sendCreditSummary/index.php",
+		"/Library/WebServer/Documents/MBilling_7/resources/css/signup.css",
+		"/Library/WebServer/Documents/MBilling_7/protected/commands/CallChartCommand.php",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/update.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/f1c51151-d52d-400b-b9bf-8746aa158673/etc/asterisk/extensions.ael",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/f1c51151-d52d-400b-b9bf-8746aa158673/etc/asterisk/func_odbc.conf",
+		"/Users/macbookpro/Downloads/extensions.ael",
+		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/Magnus.php",
+		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/mbilling.php",
+		"/Library/WebServer/Documents/MBilling_7/doc/ChangeCallerID/install.sh",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/DidController.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/DiddestinationController.php",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/installSlave.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/0c521814-d791-4c9e-8d02-d7460f09be0c/root/.ssh/authorized_keys",
+		"/Library/WebServer/Documents/MBilling_7/protected/components/Controller.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/views/transferPayment/selectAmount.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/components/UserCreditManager.php",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/installSlave_changeIP.sh",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/CampaignReportController.php",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/Application.js",
+		"/Library/WebServer/Documents/MBilling_7/doc/build.sh",
+		"/Users/macbookpro/Desktop/scripts/installSIP.sh",
+		"/Library/WebServer/Documents/MBilling_7/script/install.sh",
+		"/Library/WebServer/Documents/MBilling_7/doc/invoice/install.sh",
+		"/Library/WebServer/Documents/MBilling_7/protected/commands/TrunkSIPCodesCommand.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/commands/UpdateMysqlCommand.php",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/75820d24-3b91-4fe0-8d0e-c68693412985/var/www/html/mbilling/protected/commands/TrunkSIPCodesCommand.php",
+		"/Library/WebServer/Documents/MBilling_7/doc/backup/backup_restore.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/75820d24-3b91-4fe0-8d0e-c68693412985/var/www/html/mbilling/protected/commands/backup.sh",
+		"/Library/WebServer/Documents/MBilling_7/doc/backup/recoveryMBillingBackup.sh",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/c67a78d9-b2e9-49f5-bec7-e0c9a4fb9170/root/TrunkSIPCodesCommand.php",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunkSipCodes/List.js",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/771f53a4-8681-4a92-b1c5-5c9ab2505176/etc/asterisk/extensions.ael",
+		"/Users/macbookpro/Downloads/push.sh",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/TrunkSipCodesController.php",
+		"/Library/WebServer/Documents/MBilling_7/app/store/TrunkSipCodes.js",
+		"/Library/WebServer/Documents/MBilling_7/protected/models/TrunkSipCodes.php",
+		"/Library/WebServer/Documents/MBilling_7/app/model/TrunkSipCodes.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunkSipCodes/Form.js",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/cleancssrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/htmltidyrc_xml.cfg",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/htmltidyrc_html.cfg",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/htmlminifierrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/rubocoprc.yml",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/phpcsfixerrc.php",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/uncrustifyrc.cfg",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/uncrustifyrc_objc.cfg",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/clangformatrc.yaml",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/jsbeautifyrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/perltidyrc.cfg",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/stylelintrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/prettierrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/beautyshrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/terserrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/jsonmaxrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/eslintrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/blackrc.toml",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/csscombrc.json",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/formatter.assets/config/yapfrc.yapf",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/userRate/Form.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/sms/Form.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunkSipCodes/Module.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunk/Controller.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunk/List.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/main/MainController.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/main/Main.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunkSipCodes/Controller.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/trunk/SipCodes.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/ux/grid/Panel.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/groupUser/List.js",
+		"/Library/WebServer/Documents/MBilling_7/protected/models/TrunkSIPCodes.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/TrunkSIPCodesController.php",
+		"/Library/WebServer/Documents/MBilling_7/build/ApplicationBuild.js",
+		"/Library/WebServer/Documents/MBilling_7/app/model/TrunkSIPCodes.js",
+		"/Library/WebServer/Documents/MBilling_7/app/store/TrunkSIPCodes.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/user/List.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/user/Bulk.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/main/Login.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/refill/Controller.js",
+		"/Users/macbookpro/Downloads/odbc.ini",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/6583d5ab-0703-49af-9ce0-9b21927404bc/var/www/html/mbilling/resources/asterisk/StandardCallAgi.php",
+		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/StandardCallAgi.php",
+		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/CalcAgi.php",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/6583d5ab-0703-49af-9ce0-9b21927404bc/var/www/html/mbilling/resources/asterisk/CalcAgi.php",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/user/Form.js",
+		"/Users/macbookpro/Downloads/number.csv",
+		"/Library/WebServer/Documents/MBilling_7/resources/locale/pt_BR.js",
+		"/Library/WebServer/Documents/MBilling_7/resources/locale/es.js",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/UserController.php",
+		"/Library/WebServer/Documents/MBilling_7/build/index.html",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/771f53a4-8681-4a92-b1c5-5c9ab2505176/var/www/html/mbilling/index.html",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/771f53a4-8681-4a92-b1c5-5c9ab2505176/var/spool/cron/root",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/files/chan_sip.c",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/5db529dd-768a-41d6-b179-484337bca2cb/etc/asterisk/extensions.ael",
+		"/Library/WebServer/Documents/MBilling_7/script/opensips.cfg",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/f7a64cb0-8475-434b-96e4-c4a1dd1a5187/etc/opensips/opensips.cfg",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/CampaignDashBoardController.php",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/apps/app_mbilling.so",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/apps/app_mbilling.o",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/apps/app_mbilling.exports",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/apps/app_mbilling.c",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/channels/chan_sip.c",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/d7fa2560-ac5a-4135-8dcd-9fcf38c12cff/usr/src/asterisk-13.35.0/channels/chan_sip.o",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/files/cdr.c",
+		"/Library/WebServer/Documents/MBilling_7/protected/views/transferMobileCredit/index.php",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/did/Form.js",
+		"/Library/WebServer/Documents/MBilling_7/classic/src/view/sip/Form.js",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/TransferMobileCreditController.php",
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/SiteController.php",
+		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/SipCallAgi.php",
+		"/private/etc/apache2/httpd.conf",
+		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/install.sh"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 223.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "CallCenter_EZPhone.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"build.xml"
+			],
+			[
+				"brmoney",
+				"app/abstracts/MoneyField.js"
+			],
+			[
+				"usmoney",
+				"lib/yii/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.txt"
+			],
+			[
+				"markallowblank",
+				"app/ux/MarkAllowBlank.js"
+			],
+			[
+				"abstractmoneyfield",
+				"app/abstracts/MoneyField.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 663.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 607.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 911.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 390.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

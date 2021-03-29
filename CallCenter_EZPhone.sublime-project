@@ -1,0 +1,9 @@
+{
+    "file_exclude_patterns": ["*.sublime-workspace"],
+    "folders": [{
+        "path": "."
+    }],
+    "settings": {
+        "tab_size": 5
+    }
+}

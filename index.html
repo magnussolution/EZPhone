@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta charset="utf-8">
+                <link href="resources/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+                <title>
+                    EZPhone
+                </title>
+                <script src="locale.js">
+                </script>
+                <script src="icons.js">
+                </script>
+                <script src="index.php">
+                </script>
+                <link href="resources/init.css" rel="stylesheet">
+                </link>
+            </meta>
+        </meta>
+    </head>
+    <body>
+        <script type="text/javascript">
+            window.theme = window.theme || 'blue-classic';
+      window.themeApp = window.theme;
+      window.isThemeNeptune = window.theme.indexOf('neptune') !== -1;
+      window.isThemeCrisp = window.theme.indexOf('crisp') !== -1;
+      window.isThemeClassic = !window.isThemeNeptune && !window.isThemeCrisp;
+        </script>
+        <div id="loading-mask">
+        </div>
+        <div id="loading">
+            <div class="loading-indicator">
+                <div style="text-align:center">
+                    <img src="resources/images/loading.gif" style="vertical-align:top;" width="90px"/>
+                    <br/>
+                    <span id="name-system">
+                    </span>
+                    <br/>
+                    <span id="loading-msg">
+                    </span>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var defaultLang= window.lang;
+
+            var lang = defaultLang,
+      localeApp = 'resources/locale/' + lang + '.js';
+
+    document.write('<script type="text/javaScript" src="'+ localeApp +'"></'+'script>');
+    document.write('<script type="text/javaScript" src="resources/help/help.js"></'+'script>')
+        </script>
+        <script type="text/javascript">
+            document.getElementById('name-system').innerHTML = t('EZPhone');
+      document.getElementById('loading-msg').innerHTML = t('Loading...');
+        </script>
+        <!-- The line below must be kept intact for Sencha Cmd to build your application -->
+        <script type="text/javascript">
+            var Ext = Ext || {};
+        Ext.repoDevMode = true;
+        window.wallpapers = 'resources/images/wallpapers/'+window.wallpaper+'.jpg';
+        window.colorMenu = window.colorMenu;
+        Ext.beforeLoad = function(tags){
+            var theme = window.theme;   
+            if(!tags.desktop) {
+              theme = 'blue-crisp-touch';
+            } Ext.manifest = theme; Ext.microloaderTags = tags; Ext.Boot.platformTags = Ext.platformTags || {};};
+        </script>
+        <script id="microloader" src="bootstrap.js" type="text/javascript">
+        </script>
+        <script type="text/javascript">
+            document.getElementById('loading-msg').innerHTML = t('Starting...');
+        </script>
+    </body>
+</html>

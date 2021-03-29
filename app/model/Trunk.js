@@ -1,0 +1,123 @@
+/**
+ * Classe que define a model "Trunk"
+ *
+ * MagnusSolution.com <info@magnussolution.com> 
+ * 25/06/2012
+ */
+Ext.define('CallCenter.model.Trunk', {
+    extend: 'Ext.data.Model',
+    fields: [{
+        name: 'id',
+        type: 'int'
+    }, {
+        name: 'trunkcode',
+        type: 'string'
+    }, {
+        name: 'trunkprefix',
+        type: 'string'
+    }, {
+        name: 'providertech',
+        type: 'string'
+    }, {
+        name: 'providerip',
+        type: 'string'
+    }, {
+        name: 'removeprefix',
+        type: 'string'
+    }, {
+        name: 'secondusedreal',
+        type: 'int'
+    }, {
+        name: 'creationdate',
+        type: 'date',
+        dateFormat: 'Y-m-d H:i:s'
+    }, {
+        name: 'failover_trunk',
+        type: 'int'
+    }, 'idFailovertrunkcode', 'idProviderprovider_name', {
+        name: 'addparameter',
+        type: 'string'
+    }, {
+        name: 'id_provider',
+        type: 'int'
+    }, {
+        name: 'inuse',
+        type: 'string'
+    }, {
+        name: 'maxuse',
+        type: 'string'
+    }, {
+        name: 'status',
+        type: 'int'
+    }, {
+        name: 'if_max_use',
+        type: 'string'
+    }, {
+        name: 'user',
+        type: 'string'
+    }, {
+        name: 'secret',
+        type: 'string'
+    }, {
+        name: 'allow',
+        type: 'string'
+    }, {
+        name: 'link_sms',
+        type: 'string'
+    }, {
+        name: 'directmedia',
+        type: 'string'
+    }, {
+        name: 'context',
+        type: 'string'
+    }, {
+        name: 'dtmfmode',
+        type: 'string'
+    }, {
+        name: 'insecure',
+        type: 'string'
+    }, {
+        name: 'nat',
+        type: 'string'
+    }, {
+        name: 'qualify',
+        type: 'string'
+    }, {
+        name: 'type',
+        type: 'string'
+    }, {
+        name: 'disallow',
+        type: 'string'
+    }, {
+        name: 'host',
+        type: 'string'
+    }, {
+        name: 'sms_res',
+        type: 'string'
+    }, {
+        name: 'fromdomain',
+        type: 'string'
+    }, {
+        name: 'fromuser',
+        type: 'string'
+    }, {
+        name: 'register_string',
+        type: 'string'
+    }, {
+        name: 'register',
+        type: 'int'
+    }, {
+        name: 'AMD_active',
+        type: 'int'
+    }, {
+        name: 'AMD_totalAnalysisTime',
+        type: 'int'
+    }, {
+        name: 'AMD_maximumNumberOfWords',
+        type: 'int'
+    }],
+    proxy: {
+        type: 'uxproxy',
+        module: 'trunk'
+    }
+});
