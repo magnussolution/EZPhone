@@ -97,7 +97,7 @@ class PredictiveAgi
                 $agi->set_variable("CALLERID(num)", $callerID);
                 $agi->set_variable("CALLERID(all)", "$callerID <$callerID>");
 
-                $agi->execute("Queue", $modelCampaign->name . ',,,,60,/var/www/html/callcenter/agi.php');
+                $agi->execute("Queue", $modelCampaign->name . ',,,beep,60,/var/www/html/callcenter/agi.php');
 
                 if ($MAGNUS->agiconfig['record_call'] == 1 || $MAGNUS->record_call == 1) {
                     $myres = $agi->execute("StopMixMonitor");

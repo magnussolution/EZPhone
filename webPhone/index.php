@@ -843,19 +843,6 @@ $server = preg_replace("/www\./", "", $server);
                             //auto answer
                             if (window.localStorage.getItem('org.doubango.identity.autoanswer') == 'true') {
 
-                                //play sounds/ringtone.wav
-
-                                playandioper1sconds();
-
-                                function playandioper1sconds() {
-                                    myVar = setTimeout(answerAACall, 1000);
-                                }
-
-                                function answerAACall() {
-                                    sipCall("call-audio");
-                                }
-
-                                startRingTone();
                                 sipCall("call-audio");
                             }
                         }

@@ -666,17 +666,18 @@
 	"expanded_folders":
 	[
 		"/Library/WebServer/Documents/CallCenter_EZPhone",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/build",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/doc",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/script"
+		"/Library/WebServer/Documents/CallCenter_EZPhone/webPhone"
 	],
 	"file_history":
 	[
-		"/Library/WebServer/Documents/CallCenter_EZPhone/script/build.sh",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/.gitignore",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/build/index.html",
-		"/Library/WebServer/Documents/CallCenter_EZPhone/protected/commands/update.sh",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/b885c517-db2c-4f9c-aa1c-03764cf6a33a/var/www/html/callcenter/protected/commands/update.sh",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/webPhone/index.php",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/protected/components/AGI/PredictiveAgi.php",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/.gitignore",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/script/install.sh",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/protected/commands/update.sh",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/script/build.sh",
+		"/Library/WebServer/Documents/CallCenter_EZPhone/build/index.html",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/270cd0cd-5702-4018-8f02-d6cb67278df3/etc/rc.d/init.d/issabeldialer",
 		"/Library/WebServer/Documents/MBilling_7/protected/extensions/phpAGI/AGI_AsteriskManager.php",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/ch.sudo.cyberduck/82c78dcc-390c-4403-8d1c-cf2a8c8bfcf4/var/www/html/mbilling/protected/extensions/phpAGI/AGI_AsteriskManager.php",
@@ -796,10 +797,7 @@
 		"/Library/WebServer/Documents/MBilling_7/classic/src/view/did/Form.js",
 		"/Library/WebServer/Documents/MBilling_7/classic/src/view/sip/Form.js",
 		"/Library/WebServer/Documents/MBilling_7/protected/controllers/TransferMobileCreditController.php",
-		"/Library/WebServer/Documents/MBilling_7/protected/controllers/SiteController.php",
-		"/Library/WebServer/Documents/MBilling_7/resources/asterisk/SipCallAgi.php",
-		"/private/etc/apache2/httpd.conf",
-		"/Library/WebServer/Documents/MBilling_7/doc/app_mbilling/install.sh"
+		"/Library/WebServer/Documents/MBilling_7/protected/controllers/SiteController.php"
 	],
 	"find":
 	{
